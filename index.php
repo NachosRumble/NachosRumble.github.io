@@ -24,7 +24,7 @@
     <meta property="og:title" content="index">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="index.html" data-home-page-title="index" class="u-body u-stick-footer u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-2f38"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="index.php" data-home-page-title="index" class="u-body u-stick-footer u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-2f38"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-align-right u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font u-font-ubuntu" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-hover-color u-custom-text-shadow u-custom-text-shadow-blur u-custom-text-shadow-color u-custom-text-shadow-transparency u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
@@ -34,18 +34,18 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-custom-font u-font-ubuntu u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="index.html" style="padding: 10px 20px;">Accueil</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Membres.html" style="padding: 10px 20px;">Membres</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Telechargement.html" style="padding: 10px 20px;">Telechargement</a></li>
+            <ul class="u-custom-font u-font-ubuntu u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="index.php" style="padding: 10px 20px;">Accueil</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Membres.php" style="padding: 10px 20px;">Membres</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Telechargement.php" style="padding: 10px 20px;">Telechargement</a></li>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html">Accueil</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.html">Membres</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.html">Telechargement</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">Accueil</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.php">Membres</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.php">Telechargement</a>
 </li></ul>
               </div>
             </div>
