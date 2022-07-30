@@ -34,18 +34,18 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-custom-font u-font-ubuntu u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="index.html" style="padding: 10px 20px;">Accueil</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Membres.html" style="padding: 10px 20px;">Membres</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Telechargement.html" style="padding: 10px 20px;">Telechargement</a>
+            <ul class="u-custom-font u-font-ubuntu u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="index.php" style="padding: 10px 20px;">Accueil</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Membres.php" style="padding: 10px 20px;">Membres</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Telechargement.php" style="padding: 10px 20px;">Telechargement</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html">Accueil</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.html">Membres</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.html">Telechargement</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">Accueil</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.php">Membres</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.php">Telechargement</a>
 </li></ul>
               </div>
             </div>
