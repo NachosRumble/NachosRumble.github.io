@@ -37,6 +37,8 @@
             <ul class="u-custom-font u-font-ubuntu u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="index.php" style="padding: 10px 20px;">Accueil</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Membres.php" style="padding: 10px 20px;">Membres</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-4 u-text-hover-custom-color-1" href="Telechargement.php" style="padding: 10px 20px;">Telechargement</a></li>
+		    <li class="u-nav-item"><a class="u-button-style u-nav-link" href="register.php">Connexion</a>
+			</li>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
@@ -46,7 +48,7 @@
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">Accueil</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.php">Membres</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.php">Telechargement</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="A modifier.php">Connexion</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="register.php">Connexion</a>
 			</li>
 		      </ul>
               </div>
