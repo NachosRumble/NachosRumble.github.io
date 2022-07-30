@@ -46,7 +46,9 @@
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">Accueil</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Membres.php">Membres</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Telechargement.php">Telechargement</a>
-</li></ul>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="A modifier.php">Connexion</a>
+			</li>
+		      </ul>
               </div>
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
